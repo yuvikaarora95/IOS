@@ -1,4 +1,26 @@
+/*
 
+ carapp
+
+ menu shows car names
+
+ once the user choose car its show the daily rate and its picture
+
+ let user choose how many days
+
+ user choose one option for driver age
+
+ <18     18-64      65+
+
+ if<18 add $5 per day, if 65 + increase the total by 10%
+
+ pick one,some or all  option : navigator, child seat, unlimited millage
+
+ add $7 per day for nav. $6 for cs. 1.5 for unmillage
+
+ finally add 13% for total and show it.
+
+ */
 import UIKit
 
 
